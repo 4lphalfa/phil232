@@ -225,3 +225,96 @@ Utilitarian Responses
 
 
 
+==========
+2018-05-16
+==========
+
+Utilitarianism asks too much (No rest)
+* It seems to tell us we can never morally justify going to a movie.
+Utilitarian Responses
+* There may be more utility in well rounded, flourishing individuals who don't always try to directly maximize utility.
+* Entertaining yourself isn't bad in itself, it just really is not the morally best thing you can do.
+
+Utility conflicts with justice
+* Utility seems to be maximized by framing a humeless person to prevent riots
+Utilitarian Responses
+* The consequences of violating individual right are severe -but in extreme cases it may be the right thing to do.
+* The reason we value what we call justice is that it's a cluster of generally utility maximizing principles
+* Our duration of justice conflict with each other. Utility can be a referee.
+
+Negative Responsibility
+Is killing worse than letting die?
+
+Deontological moral theory
+* Focuses on duty and moral rules
+* Defines the (morally) right independently on the good (consequences)
+
+Immanuel Kant (1724-1804)
+Groundwork for the Metaphysics of Morals 1785
+
+Many things are good, 
+But only the good will is unconditionally good. 
+
+What is the good will?
+    The determination to do what reason tells us is our moral duty
+Only acts done from the motive of duty have full moral worth.
+
+Hypothetical Imperatives:
+    If you want A, you should do B
+Categorical Imperatives:
+    Regardless of your particular wants and desires, you should do B.
+Kant: Morality is a matter of Categorical Imperatives.
+
+The Categorical Imperative (First Formulation)
+Act only according to that maxim which you can will to be a universal law.
+
+How you apply the Categorical Imperative
+    Form a maxim capturing your intended action, 
+    Then ask:
+        - Can I concieve of it functioning as a universal law?
+        - Can I will it to function as a universal law?
+    If so, it's universalizable and a morally permissible act, otherwise not.
+
+Forming your maxim
+    Your Maxam: when in these circumstances, I will perform this act with this aim
+    Then you imagine the world your maxam yields,
+    a world where everyone follows your maxim as if it was a law of nature
+    Conception: Could it work as the universal way of achievinv this aim?
+    Willing: If I imagine myself in every position is society, would I will it in each of those positions? Does this contradict something any rational being necessarily wills?
+
+Can I make a false promise when I'm in a mind?
+[I]t must be rejected, not because of any harm is will bring to myself or ..." [ak 4...]
+
+Can I leave the less fortunate to help themselves?
+
+Testing for Contradictions
+Your maxam: when I am well off and others are desperate, I will help no one, to enjoy myself
+Passes the Conception test
+Fails the Willing test
+
+The Categorical Imperative (Second Formulation)
+"Always treat humanity, in your own person and in the person of every other, as an end, never mearly as a means?
+
+Even  of the liar is trying to achieve a good end, "his way of pursuing this end is, bu its mere form, a crime of mand against... - The Metaphysics of Morals
+
+
+Speciesism and the Idea of Equality - Bonnie Stienbock
+    (Treatment depends on the interests they have)
+
+Cruelty is the infliction of unnecessary suffering, and it's always wrong.
+"What is philosophically interesting is whether we are justified in having different standards of necessity for human suffering and for animal suffering." - p.251
+
+* Singer is right that sentience is enough to support a requirement for moral treatment.
+* But rationality and a capacity for self respect are also relevant to moral treatment.
+
+Other Morally Relevant Features of Humans
+* We are responsible for what we do - autonomous
+* We are capable of altruistic motivation
+* We can do moral reasoning and treat others fairly or unfairly
+* We desire dignity and self respect
+
+
+
+
+
+
