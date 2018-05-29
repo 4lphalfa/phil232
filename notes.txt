@@ -1010,3 +1010,156 @@ Terminally Ill People Still Have Some Liberty
 
 
 
+==========
+2018-05-29
+==========
+
+The Second paper is due Monday Night
+Midterm 2
+    15 Q's, answer 12
+    Everything after Igneski
+
+
+Euthanasia
+    What will Utilitarians say?
+(To decide whether the policy is moral, we must think of all the consequences)
+(What about a Kantian? Euthanasia destroys rational autonomy, but if their at a point where they've lost their autonomy then it's ok)
+
+Kant discusses suicide in CH2 of the Groundwork for the Metaphysics of Morals:
+(1) A man ...
+    For love of myself, I make it my principle to cut my life short when prolonging it threatens to bring more troubles than satisfactions.
+So the question is whether this principle of self-love could become a universal law of nature.
+If it did, that would be a nature that had a law according to which a single feeling 
+    * created a life-affirming push and also
+    * led to the destruction of life itself
+and we can see at a glance that such a 'nature' would contradict itself, and so couldn't be a nature.
+So the naxim we are discussing couldn't be a law of nature, and therefore would be utterly in conflict with the supreme principle of duty.
+(When Kant talks about suicide, you're going to have a contradiction in conception)
+
+If we only allow assisted suicide for people in severe pain, then it's not about liberty at all.
+It's just about happiness.
+
+A person has a grevious and irrremediable medical condition only if they meet ALL of the following criteria:
+    (a) they have a serious and incurable illness, disease or disability
+    (b) they are in advanced state of irreversible decline in capability
+    (c) that illness, disease or disability or that state of decline causes them enduring physical or psychological suffering that is intolerable to them 
+        and that cannot be relieved under conditions that they consider acceptable
+    (d) their natural death has become reasonably forseeable, taking into account all of their medical circumstances, 
+        without prognosis necessarily having been made as to the specific length of time that they have remaining.
+
+There Will Be Abuse
+    * Doctor-patient interactions are confidential
+    * Precisely writing the law will not be able to stop the abuse
+        - 'Unbearable suffering' and 'terminal condition' are too slippery
+
+(Not only that suicide should be legel, it should be legel to go to a medical professional)
+
+Why limit self determination
+    to the suffering,
+    or to the dying,
+    or to the competent?
+
+
+What about the potential for misuse? - Dan Brock
+    That might be a reason to restrict it to the terminally ill.
+
+One Good Effect of a Pro-Euthanasia Policy
+    * It reassures people that if they find themselves in that situation they'll have the option
+
+Some critics admit euthanasia may be morally justified in a particular case
+    * But insist that AS A RULE, we can't allow it.
+(Because of concerns about misuse)
+
+One Proposed Bad Effect of a Pro-Euthanasia Policy
+    * It would undermine trust in doctors and undermine medicine's moral centre
+        - but rethink guiding aims of medicine
+
+A Second Proposed Bad Effect of a Pro-Euthanasia Policy
+    * Giving people the option can make them worse off.
+
+Slippery Slopes and Loose Cannons
+    Why there will be trouble:
+        * psychological vulnerability of the elderly and dying
+        * health care costs
+        * substituted judgement
+        * expanding 'terminal illness'
+        * prejudice against the disabled
+
+
+Active and Passive Euthanasia - James Rachels
+    It is commonly held that:
+        * Passive euthanasia is sometimes morally permissible
+        * Active eithanasia is never morally permissible
+    But this is wrong.
+(Most anti-active-euthanasia perople don't call passive-euthanasia euthanasia at all.)
+
+CMA position prior to the Supreme Court decision:
+    [This sounds like passive euthanasia]
+    "Euthanasia... must be distinguished from the withholding wor withdrawal of inappropriate, futile or unwanted medical treatment ot the provision of conpassionate palliative care,
+        even when there practices shorten life."
+Canadian physicians should not participate in it.
+
+CMA position after the Supreme Court decision:
+    "The CMA supports patients' access to the full spectrum of end..."
+
+Inoperable throat cancer case:
+What justifies passive euthanasia?
+    - The person is going to die anywan, and by withdrawing treatment and hastening death we reduce the suffering.
+    - But compared to active, passive euthanasia unnecessarily prolongs the agony
+    * So the justification for active euthanasia is stronger (In the name of limiting suffering)
+
+Down syndrome and intestinal obstruction case:
+    - The need for this relatively simple operation is what determines whetehr the baby will live or die
+    * So the common view leads to making life and death decisions on irrelevant grounds.
+
+The case of the six-year old drowning victim:
+    - Smith drowns his little cousin
+    - Jones goes in to drown hin, sees him slip and fall, and stays to make sure he drowns
+    - They are equally morally blameworthy
+    * So killing and letting die are not morally distinct
+
+The common argument for the distinction:
+    In passive euthanasia the doctor doesn't do anything to cause the death
+        -the patient dies from the illness
+    In active euthanasia the doctor causes the death
+    It is morally wrong to cause death
+    So only passive euthanasia is morally acceptable
+    * But this argument fails.
+
+Acts and Omissions
+    Sometimes one action is performed by not performing some other action.
+        * I insult you by not shaking your hand
+        * I break a vase by omitting to catch it when you throw it to me.
+        * I send you into danger of a foggy night by not mentioning that the bridge is out
+        * You need your inhaler and I opt not to hand it to you.
+    By omitting to act in one way I have acted in another.
+
+Callahan:
+    We need to separate causation from moral culpability
+        - A wrongful omission makes a person morally culpable
+        - But it does not make them the cause of death.
+
+Callahan's Account                      Caused death?       Morally culpable?       What to call it?
+Lethal Injection                        Yes                 Yes                     Doctor killed him
+Obit treatment should have provided     no                  yes                     Doctor 'killed' him
+Omit treatment at patient request       no                  no                      Doctor didn't kill him, let him die
+If we blur the killing/letting die distinction every case where treatment is ineffective will logically call for direct killing on humane and economic grounds.
+
+Why do people assume killing is worse than letting die?
+    Most of the killing we hear about is ill-intentioned
+    Most of the letting die we hear about is well-intentioned
+
+The only morally relevant difference seems to be that active euthanasia results in less pain than passive euthanasia
+
+Terminal Sedation
+    Usually considred to be passive euthanasia, but
+        - The death is often not from the disease but from respiratory failure or dehydration from the drugs
+    Prior to the new law, the University of Toronto Centre for Bioethics' position was that the is acceptable if the intent is relieve pain and not to hasten death.
+
+The Doctrine of Double Effect - Thomas Aquinas (1224-1272)
+    It is permissible to cause an otherwise impermissible harm as a side effect (but not as a means) of producing a good effect
+
+
+
+
+
