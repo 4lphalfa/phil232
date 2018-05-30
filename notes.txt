@@ -1163,3 +1163,114 @@ The Doctrine of Double Effect - Thomas Aquinas (1224-1272)
 
 
 
+==========
+2018-05-30
+==========
+
+The Intentional Termination of Life - Bonnie Steinbock
+(Looks at what Rachael's says, and asks if people actually mistake active and passive euthanasia)
+(The way Rachaels interprets the law is the same way doctors interpret the law... and that they're both wrong)
+
+The Down Syndrome Baby Example
+    Rachels is right that 
+        - This withholding of treatment is unjestified
+        - It is the intentional termination of life, i.e. it's passive euthanasia
+    * But this is not the kind of withholding the AMA policy, correctly applied, allows.
+
+The Down Syndrome Baby Example
+    - The problem is that doctors misunderstand the AMA policy
+    - These babies should receive the operation
+        - Their death is not imminent
+        - Help doesn't depend on extraordinary care.
+
+In some cases withdrawing treatment is not intentional termination of life.
+    Case One (Looks to be justifying passive euthanasia, but it isn't)
+        Competent adult patients have a right to refuse treatment
+        But this does not entail a right to euthanasia
+        The aim is protection from unwanted interference
+        So the intent of withdrawing treatment need not be ending the life (doctor's intent is to recognize your right to refuse treatment)
+
+A lot Hinges on the Differences Between
+    - Intending and Forseeing
+    - Ordinary and Extraordinary Care
+The Withdrawal of Life-Prolonging treatment is not necessarily Passive Euthanasia
+
+Is there a significant moral difference between an intended outcome and a merely forseen outcome of an intentional action?
+    Steinbock thinks there can be.
+- A doctor may intentionally withdraw treatment because the patient's refusal of the treatment requires her to do so.
+    The doctor is not free to prevent the death
+- The she may forsee that the patient will die, but not intentionally cause the patient's death.
+
+Extraordinary Care
+    - Has little chance of improving the patient's condition and brings more discomfort than relief
+    - "The concept is flexible." p.582
+Examples: a respirator for a person in an irreersible coma; continued chemotherapy for a cancer that is not responding to the treatment
+
+In some cases withdrawing treatment is not intentional termination of life.
+    Case Two
+        Some treatments for spina bifida doesn't improve the patient's condition and brings more pain than relief
+        This is extraordinary care
+        The aim of withdrawing it is to avoid inflicting more pain
+        So the intent of withdrawing treatment need not be ending the life
+
+
+Would you eat your Cat?
+Morality, Harm, and the 'Yuk Factor'
+
+Would you eat your cat?
+    Is there any harm?
+    Is it disgusting?
+    Is it immoral?
+
+Kissing Cousins
+
+Is cosensual sibling sex OK?
+    Is there any harm?
+    Is it disgusting?
+    Is it immoral?
+
+"We also know that judgements of wrongdoing by people who take a moral stance towards the kinds of acts depicted here are better predicted by asking them 
+    whether they would be bothered to see these acts than by asking them whether anyone is harmed." - TPM, Would You Eat Your Cat?
+
+Jamestown Cannibalism
+
+The Wisdom of Repugnance - Leon Kass
+    - "In crucial cases, however, repugnance is the emotional expression of deep wisdom, beyond reason's power fully to articulate it."
+    - "The repugnance at human cloning belongs in this category, We are repelled by the prospect of cloning human beings not because of the strangeness or novelty of the undertaking
+        but because we intuit and feel..."
+
+Afternoon Delight
+    We take that feeling to be a reliable source of information - a moral intuition.
+
+Experimental Philosophy
+
+Cut the Cake and Ultimatum (Logically you should accept any offer because you will always gain, but many people reject
+    How would you react to an unfair offer
+
+Moral Dunbfounding
+    Jonathan Haidt says this shows that our moral attitudes are produced by the automatic affect system - not by reason.
+
+- Haidt also found that hypnotically induced disgust makes moral judgements more severe
+- And subjects immediately produced rationalizations
+
+
+Discussing Disgust - Martha Nussbaum
+
+The Role of Emotion in Moral Judgement
+    - It's a mistake to ban emotion from a role in moral debate
+    - Emotions have focnitive content
+    - Not all emotions are equally relevant
+
+Distaste vs Disgust
+    Disgusting things have 'contamination potency.' 
+    What the disgusting touches also becomes disgusting.
+
+The Cognitive Content of Emotions
+    Anger       This is wrong           Fix it
+    Fear        This is unsafe          Make it safe
+    Disgust     This is contamination   Flee it
+
+
+
+
+
